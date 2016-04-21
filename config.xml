@@ -13,7 +13,7 @@
 	Aplicacion que muestra las DATOS del alumno
 	</descripcion>
 	
-	<preference name="phonegap-version" value="support@phonegap.com">
+	<preference name="phonegap-version" value="3.1.0"/>
 	
 	<author href="https://build.phonegap.com" email="support@phonegap.com">
 	  silva axilote milton
